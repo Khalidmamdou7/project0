@@ -6,6 +6,15 @@ h3 {
   border-bottom: 1px solid #eaecef;
   padding-left: 2px;
 }
+body > p {
+  font-family: sans-serif;
+}
+@media (min-width: 500px) {
+  .w-100 {
+    display: none;
+  }
+}
+
 .card-img-top {
   width: auto;
   height: auto;
