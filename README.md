@@ -2,3 +2,6 @@
 
 This is a website displaying "My college list" ,which includes information about the colleges I'd apply to, It contains five pages the homepage and four pages for each college.
 My website is a mobile responsive site as I used some bootstrap features and wrote my own media queries.
+ 
+ <b>
+Note : I have compiled styles.scss to styles.css 
